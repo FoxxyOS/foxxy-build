@@ -1,0 +1,26 @@
+## foxxy metapackages
+foxxy-interface
+foxxy-mate
+#foxxy-interface-full
+foxxy-tools-full
+foxxy-drivers
+
+## other packages
+ricochet-im
+vlc
+mpv
+telnet
+zeal
+keepassxc
+homebank
+vym
+planner
+libreoffice
+qbittorrent
+
+electrum
+
+emacs-nox
+vim-nox
+atom
+geany

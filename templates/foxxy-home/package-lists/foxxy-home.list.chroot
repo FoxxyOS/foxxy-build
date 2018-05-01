@@ -1,0 +1,25 @@
+## foxxy metapackages
+foxxy-interface
+foxxy-mate
+foxxy-drivers
+
+## other packages
+vlc
+mpv
+geany
+atom
+electrum
+zulucrypt
+ricochet-im
+libreoffice
+keepassxc
+homebank
+vym
+planner
+rhythmbox
+shotwell
+qbittorrent
+
+foxxy-updater
+
+anonsurf

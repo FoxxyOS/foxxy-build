@@ -1,0 +1,3 @@
+## stable repository
+deb http://deb.foxxysec.org/foxxy stable main contrib non-free
+#deb-src http://archive.foxxysec.org/foxxy stable main contrib non-free

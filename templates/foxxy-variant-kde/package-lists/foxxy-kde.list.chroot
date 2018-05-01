@@ -1,0 +1,22 @@
+## foxxy metapackages
+foxxy-interface
+foxxy-kde
+sddm
+foxxy-drivers
+
+## other packages
+vlc
+electrum
+zulucrypt
+ricochet-im
+libreoffice-writer
+libreoffice-calc
+libreoffice-impress
+keepassxc
+homebank
+vym
+planner
+
+foxxy-updater
+
+anonsurf

@@ -1,0 +1,21 @@
+## foxxy metapackages
+apt-foxxy
+foxxy-core
+foxxy-interface
+foxxy-mini
+foxxy-drivers
+
+## other packages
+vinagre
+etherape
+torchat
+vlc
+mpv
+galculator
+electrum
+electrum-ltc
+
+## desktop environment
+foxxy-gnome
+
+anonsurf
