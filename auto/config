@@ -40,6 +40,7 @@ while [ $# -gt 0 ]; do
 		temp="$temp "'"'"$arg"'"'
 		;;
 	esac
+	
 	shift
 done
 eval set -- "$temp"
@@ -77,7 +78,7 @@ esac
 # Setup configuration files from variant and options
 
 # Drop all files that a former run might have put into place
-for file in $(cd ../config && find . -type f); do
+for file in $(cd config && find . -type f); do
     file=${file#./*/}
     rm -f config/$file || true
 done
