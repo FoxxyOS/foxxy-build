@@ -46,7 +46,7 @@ function build() {
 	rm -rf config || true
 	lb config
 	lb build
-	mv live-image-*.hybrid.iso ../Foxxy-$variant-$version\_$arch.iso
+	
 }
 
 case $1 in
